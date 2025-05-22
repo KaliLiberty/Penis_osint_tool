@@ -1,1 +1,7 @@
 # Penis_osint_tool
+git clone https://github.com/KaliLiberty/Penis_osint_tool.git
+cd Penis_osint_tool
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt 
+python penis.py   
